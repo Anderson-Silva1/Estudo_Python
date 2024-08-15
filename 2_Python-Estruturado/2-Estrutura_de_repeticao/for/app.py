@@ -74,5 +74,5 @@ for numero in numeros:
     soma += numero
 print(f'A soma de todos os numeros e {soma}')
 
-#----------------------------------------------]
+#----------------------------------------------
 print("")

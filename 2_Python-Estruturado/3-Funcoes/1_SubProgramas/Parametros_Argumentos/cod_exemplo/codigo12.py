@@ -1,3 +1,5 @@
+# Parametros padões
+
 def taximetro(distancia, multiplicador=1):
     largada = 3
     km_rodado = 2
