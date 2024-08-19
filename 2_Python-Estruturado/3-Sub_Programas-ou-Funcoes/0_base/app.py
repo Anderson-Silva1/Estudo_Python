@@ -56,8 +56,8 @@ print("")
 #--------------------------------------------------
 
 # SUBPROGRAMAS EM PYTHON PODEM SER: 
-    # 1 -PROCEDIMENTOS >> São aqueles que não retornam valores
-    # 2 - Funções >> São aquelas que retornam valores.
+    # 1 - PROCEDIMENTOS >> São aqueles que não retornam valores
+    # 2 - FUNÇÕES >> São aquelas que retornam valores.
 
 # PROCEDIMENTOS
 def teste_procedimento (n1 = 1, n2 = 2) :

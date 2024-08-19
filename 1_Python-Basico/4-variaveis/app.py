@@ -12,7 +12,8 @@ variavelExemplo_4 = True # Boolean
 variavelExemplo_5 = 5 + 6j # Complex
 #--------------------------------------------------------
 
-"""REGRAS DE DECLARAÇÃO DE VARIÁVEL
+"""
+    REGRAS DE DECLARAÇÃO DE VARIÁVEL
     1 - Não pode iniciar com um número, mas pode conter números;
     2 - Não pode conter espaços, pontos, acentos e outros simbolos ou caracteres especiais esceto o underline;
     3 - Devem começar com uma letra ou underline "_"
